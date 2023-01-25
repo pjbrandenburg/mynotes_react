@@ -1,3 +1,7 @@
+This is a Notes Application built in React from Traversy
+
+![Note Page](src\assets\Note Page.png "Employee Data title")
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
