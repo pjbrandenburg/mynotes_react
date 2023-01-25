@@ -1,6 +1,6 @@
 This is a Notes Application built in React from Traversy
 
-![Note Page](src\assets\Note Page.png "Employee Data title")
+![Note Page](https://github.com/pjbrandenburg/mynotes_react/blob/master/src/assets/Note%20Page.png "Note App")
 
 # Getting Started with Create React App
 
